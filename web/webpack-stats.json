@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "assets": {
+    "095aec019aa238062273998b8b91f747.png": {
+      "name": "095aec019aa238062273998b8b91f747.png",
+      "path": "/home/mgraham/django/django_bees/django_bees/static/095aec019aa238062273998b8b91f747.png"
+    },
+    "react-app.js": {
+      "name": "react-app.js",
+      "path": "/home/mgraham/django/django_bees/django_bees/static/react-app.js"
+    },
+    "react-app.js.LICENSE.txt": {
+      "name": "react-app.js.LICENSE.txt",
+      "path": "/home/mgraham/django/django_bees/django_bees/static/react-app.js.LICENSE.txt"
+    }
+  },
+  "chunks": {
+    "main": [
+      "react-app.js"
+    ]
+  }
+}
