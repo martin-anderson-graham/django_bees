@@ -1,0 +1,828 @@
+{
+  "search_metadata": {
+    "id": "63e5b18fef7dda13df16dc15",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d49d8d9232e81832/63e5b18fef7dda13df16dc15.json",
+    "created_at": "2023-02-10 02:53:03 UTC",
+    "processed_at": "2023-02-10 02:53:03 UTC",
+    "google_url": "https://www.google.com/search?q=brentford+bees&oq=brentford+bees&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/d49d8d9232e81832/63e5b18fef7dda13df16dc15.html",
+    "total_time_taken": 2.3
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "brentford bees",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "brentford bees",
+    "total_results": 1230000,
+    "time_taken_displayed": 0.81,
+    "menu_items": [
+      {
+        "position": 1,
+        "title": "All"
+      },
+      {
+        "position": 2,
+        "title": "News",
+        "link": "https://www.google.com/search?q=brentford+bees&gl=us&source=lnms&tbm=nws&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ_AUoAXoECAEQAw",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees&tbm=nws"
+      },
+      {
+        "position": 3,
+        "title": "Images",
+        "link": "https://www.google.com/search?q=brentford+bees&gl=us&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ_AUoAnoECAEQBA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees&tbm=isch"
+      },
+      {
+        "position": 4,
+        "title": "Shopping",
+        "link": "https://www.google.com/search?q=brentford+bees&gl=us&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ_AUoA3oECAEQBQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees&tbm=shop"
+      },
+      {
+        "position": 5,
+        "title": "Maps",
+        "link": "https://maps.google.com/maps?q=brentford+bees&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&gl=us&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ_AUoBHoECAEQBg"
+      }
+    ]
+  },
+  "sports_results": {
+    "title": "Brentford F.C.",
+    "rankings": "7th in Premier League",
+    "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd68c9f9584b3f712b71c3dd9060f25e08087822cbeea9ad47c.png",
+    "games": [
+      {
+        "status": "FT",
+        "date": "Jan 14",
+        "video_highlights": {
+          "link": "https://www.youtube.com/watch?v=Ta9NTFH-pAI&feature=onebox",
+          "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d05b7fbdb43b6c78dc47da1a685ac44b1523bbb43f6f649f30d0b12584890e560071dd6132d37848c4.jpeg",
+          "duration": "11:09"
+        },
+        "teams": [
+          {
+            "name": "Brentford",
+            "score": "2",
+            "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d0fdcc35b2ed489a8a96cc67e467af8650d5c789ea886af2ab4be2c08912e9def5.png"
+          },
+          {
+            "name": "Bournemouth",
+            "score": "0",
+            "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d0fdcc35b2ed489a8a81cf907fc9e1b73aaa1a84e8684b40a38ebfb91d2fbd06b7.png"
+          }
+        ]
+      },
+      {
+        "status": "FT",
+        "date": "Jan 22",
+        "video_highlights": {
+          "link": "https://www.youtube.com/watch?v=9ZyaDIxz13k&feature=onebox",
+          "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d02f7c51e0233b8f775225b2f9c6a74c93ff6910469186cbb1ee898697fdf7a3ba71848a669e87e209.jpeg",
+          "duration": "7:34"
+        },
+        "teams": [
+          {
+            "name": "Leeds United",
+            "score": "0",
+            "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d04c39a1eb72a511dd4d2cd874241fca3b5027f7ece13c2d924fd52c30c871208f.png"
+          },
+          {
+            "name": "Brentford",
+            "score": "0",
+            "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d04c39a1eb72a511dd5bf536424c4bd6b6742dd794c21a9958ce753b287954ef7d.png"
+          }
+        ]
+      },
+      {
+        "status": "FT",
+        "date": "Sat, Feb 4",
+        "video_highlights": {
+          "link": "https://www.youtube.com/watch?v=qb6rDnP4X9U&feature=onebox",
+          "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d023b3b2697c3e33c4a8de6845f006376dd8d575a9bbb4f18a5889bfd4ffff22f05f1609fb5b6aec8c.jpeg",
+          "duration": "12:26"
+        },
+        "teams": [
+          {
+            "name": "Brentford",
+            "score": "3",
+            "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d06907e4e25dd8a3aa884fe04b5113175d49539f8ca4a84fcb039cedcf51103fbf.png"
+          },
+          {
+            "name": "Southampton",
+            "score": "0",
+            "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d06907e4e25dd8a3aaa96b0da941b91588f4612f9f4a26e816e52201ad6d06125f.png"
+          }
+        ]
+      },
+      {
+        "date": "Sat, Feb 11",
+        "time": "9:00 AM",
+        "teams": [
+          {
+            "name": "Arsenal",
+            "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d0e29356452fa5c9e0a94ae1e661a3c5e7db287099e123c40a98ee53dce7692f58.png"
+          },
+          {
+            "name": "Brentford",
+            "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d0e29356452fa5c9e0efa3a2c68a7b6956b8e18812239682f70e04965092053363.png"
+          }
+        ]
+      },
+      {
+        "date": "Sat, Feb 18",
+        "time": "9:00 AM",
+        "teams": [
+          {
+            "name": "Brentford",
+            "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d0668c1cab2f60e26464cecfd924f7e07ca20080900b026a81ed5e6cc262c06a76.png"
+          },
+          {
+            "name": "Crystal Palace",
+            "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d0668c1cab2f60e264938c5104f6b7acfa264ffc97c1e5be3a7d4df5d0ee4e02fa.png"
+          }
+        ]
+      },
+      {
+        "status": "Postponed",
+        "teams": [
+          {
+            "name": "Man United",
+            "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d045ce0a6d026c1e5095c1912368d4eb08e84d90f1aff41058f25c5167dfde75f1.png"
+          },
+          {
+            "name": "Brentford",
+            "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/95a06cc4af927bd6165a6b2c6b4b47d045ce0a6d026c1e5037db2d184d8d365c183b62e3dfc9b937153357d4e2ca2cdd.png"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "title": "Brentford F.C.",
+    "type": "Soccer club",
+    "kgmid": "/m/02b0y3",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02b0y3&hl=en-US&q=Brentford+F.C.&kgs=20a7c0b4b378e303&shndl=0&source=sh/x/kp/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02b0y3&location=Austin%2C+Texas%2C+United+States&q=Brentford+F.C.",
+    "image": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/49c1dff32e50437eee13a20c582c6f4004e1be942c846514.png",
+    "website": "https://www.brentfordfc.com/",
+    "description": "Brentford Football Club is a professional football club in Brentford, West London, England, which competes in the Premier League, the highest tier of English football, having gained promotion via the playoffs at the end of the 2020–21 Championship season.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Brentford_F.C."
+    },
+    "manager": "Thomas Frank",
+    "manager_links": [
+      {
+        "text": "Manager",
+        "link": "https://www.google.com/search?gl=us&q=brentford+f.c.+manager&stick=H4sIAAAAAAAAAOPgE-LUz9U3MEoyqDTWUshOttIvzk9OTi3ST8vPL0lKzMmJL0lNzLXKTcxLTE8tWsQqllSUmleSll-UopCml6ynAJUAAPzm_fpIAAAA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ6BMoAHoECCkQAg"
+      },
+      {
+        "text": "Thomas Frank",
+        "link": "https://www.google.com/search?gl=us&q=Thomas+Frank&si=AEcPFx7HnMxbNS2egwqbd2fGseeWkZi3ZCVlQ3vY-NLoLE7SWdecX-qfDUNKWKPnFKax4ZQ6HSdvfTE4aN8ipQE4FWsYOIArBhMNx-KTaWYcxxTROXCBrepKqG_-CRGKEtmMO1s8b1YofyBqyEXJ7GWlqdyl_jMCEHDqjbLLdcgCToCg97eggYoWrnWPMSg1yNV7kNESLlxX&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQmxMoAXoECCkQAw"
+      }
+    ],
+    "arena_stadium": "Gtech Community Stadium",
+    "arena_stadium_links": [
+      {
+        "text": "Arena/Stadium",
+        "link": "https://www.google.com/search?gl=us&q=brentford+f.c.+arena/stadium&stick=H4sIAAAAAAAAAOPgE-LUz9U3MEoyqDTWUslOttIvLsgvKimGUvElqYm5VolFqXmJ-sUliSmZpbmLWGWSgPyStPyiFIU0vWQ9BRRpAGPDoqNSAAAA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ6BMoAHoECB8QAg"
+      },
+      {
+        "text": "Gtech Community Stadium",
+        "link": "https://www.google.com/search?gl=us&q=Brentford+Community+Stadium&si=AEcPFx7HnMxbNS2egwqbd2fGseeWkZi3ZCVlQ3vY-NLoLE7SWd3-pqQLXdGxIcXJUbC6X_sDb-gQgyzAQzq4W2Gd6kmOgpTc397IyV2cJq4nqNQA1Wfx7lpZgpV6ISnKWI_CMn3vqCFw6q_l5TzBayrGtpdpXBupqNrUqiUAokvliYYZa2HNIiO8TeeqaAjg-DEwijmVrZoTYg56AX6tzvI2tx7cu_28bA%3D%3D&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQmxMoAXoECB8QAw"
+      }
+    ],
+    "location": "Brentford, United Kingdom",
+    "location_links": [
+      {
+        "text": "Location",
+        "link": "https://www.google.com/search?gl=us&q=brentford+f.c.+location&stick=H4sIAAAAAAAAAOPgE-LUz9U3MEoyqDTWks9OttIvLsgvKimGUvElqYm5Vjn5yYklmfl5i1jFk4pS80rS8otSFNL0kvUUYDIA0hw3ykgAAAA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ6BMoAHoECCUQAg"
+      },
+      {
+        "text": "Brentford, United Kingdom",
+        "link": "https://www.google.com/search?gl=us&q=Brentford&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN0IRhjO0ycw_x5N0ZZD9KMqsbw0-iZrFEuKNV7VEh9AuEB-Li5OOezdibcmseKbdMYnge9hbtMaClgA8Bxt6tjsbDXqArxzsmTWhMeKreR3f9aKmaId8QPk9TkRPp3CN0qlVhAD7aZYp40PJarcmI9OnTy64&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQmxMoAXoECCUQAw"
+      }
+    ],
+    "owner": "Matthew Benham",
+    "owner_links": [
+      {
+        "text": "Owner",
+        "link": "https://www.google.com/search?gl=us&q=brentford+f.c.+owner&stick=H4sIAAAAAAAAAOPgE-LUz9U3MEoyqDTWkshOttJPKi3OzEstLtZPLC5OLbHKL89LLVrEKpJUlJpXkpZflKKQppespwAWBgBH-2-KPgAAAA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ6BMoAHoECCAQAg"
+      },
+      {
+        "text": "Matthew Benham",
+        "link": "https://www.google.com/search?gl=us&q=Matthew+Benham&si=AEcPFx7eHRJU0tWbjC5cc2C2rVygfPuoetC2JDc0IDqLp89f-LvF5SwLSA9kZS1zBfyNZ-aDPw-PrKSVXGDhsIu6phD618IYMX2KsYYib00swb66NfcMAxax6uS34FgMJksF8-DejTwDXnlzrytGkIKYhG-HcdGT0zbedzOxXLQRLbcZJ3AiUiHQA0kjHLCEvWOgiNywsON1wthnwfPmqpRf49cR5p4ZAQ%3D%3D&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQmxMoAXoECCAQAw"
+      }
+    ],
+    "leagues": "Premier League, FA Cup",
+    "leagues_links": [
+      {
+        "text": "Leagues",
+        "link": "https://www.google.com/search?gl=us&q=brentford+f.c.+leagues&stick=H4sIAAAAAAAAAOPgE-LUz9U3MEoyqDTWks1OttIvLsgvKimGUvElqYm5VjmpiemlqYtYxZKKUvNK0vKLUhTS9JL1FCDixQC7sYYzRQAAAA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ6BMoAHoECCEQAg"
+      },
+      {
+        "text": "Premier League",
+        "link": "https://www.google.com/search?gl=us&q=Premier+League&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN5yso7g6nTAC65lUuZwrnCddQ4AWt00croIKZgL-ghOg9fBJBv6YX4qYsTyI8FZ2Fes2ycW33C8wsG3rwukh7awOBFUrWzs5y09shD4CT_feXiX19s9rT8Uv1hY31v-m35vFrCdGIr9h25pbeZHDtk7fkMnTbX1VFSpTr1FsyLvOu8Dg5q17Mc3Ye3uV_dYrmcGV-5DNd8XhUAsvQRwPr1vwAjb3&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQmxMoAXoECCEQAw"
+      },
+      {
+        "text": "FA Cup",
+        "link": "https://www.google.com/search?gl=us&q=FA+Cup&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN8vNaxxKI6xwM_tOdLsvFr6zfcAk-326d3AuvuoIdBnPZfERY28DfzFbW_efzkh-jtmN63OoUptBDP2DryWhSj0qinmR1s78NUDipX1VE3YEd_CcEIuV-eJeFlS_hwJjhdRSGRYVwldLbXbkbMX8TdWJoDIVAPUSeNQmspG0DU2YktMzYDUjLXt3nHDkPS8DpXP5i-oBmssFpoVsoXNUGMsouCz5&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQmxMoAnoECCEQBA"
+      }
+    ],
+    "players": [
+      {
+        "name": "Ivan Toney",
+        "extensions": "Forward",
+        "link": "https://www.google.com/search?gl=us&q=Ivan+Toney&stick=H4sIAAAAAAAAAONgFuLUz9U3MEoyqDRW4gIxyyvNzE0rtISCC_KLSopDUhNzQ_KD8otLUosWsXJ5liXmKYTk56VWAgC1XajPOgAAAA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQri56BAgiEAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Ivan+Toney&stick=H4sIAAAAAAAAAONgFuLUz9U3MEoyqDRW4gIxyyvNzE0rtISCC_KLSopDUhNzQ_KD8otLUosWsXJ5liXmKYTk56VWAgC1XajPOgAAAA"
+      },
+      {
+        "name": "Mikkel Damsgaard",
+        "extensions": "Midfielder",
+        "link": "https://www.google.com/search?gl=us&q=Mikkel+Damsgaard&stick=H4sIAAAAAAAAAONgFuLUz9U3MEoyqDRW4tVP1zc0TE8prjAzN8vSEgouyC8qKQ5JTcwNyQ_KLy5JLVrEKuCbmZ2dmqPgkphbnJ6YWJQCALiEabxDAAAA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQri56BAgiEAY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Mikkel+Damsgaard&stick=H4sIAAAAAAAAAONgFuLUz9U3MEoyqDRW4tVP1zc0TE8prjAzN8vSEgouyC8qKQ5JTcwNyQ_KLy5JLVrEKuCbmZ2dmqPgkphbnJ6YWJQCALiEabxDAAAA"
+      },
+      {
+        "name": "David Raya",
+        "extensions": "Goalkeeper",
+        "link": "https://www.google.com/search?gl=us&q=David+Raya&stick=H4sIAAAAAAAAAONgFuLUz9U3MEoyqDRW4gYxDY0Ny9KzTLSEggvyi0qKQ1ITc0Pyg_KLS1KLFrFyuSSWZaYoBCVWJgIAbunfLjsAAAA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQri56BAgiEAg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=David+Raya&stick=H4sIAAAAAAAAAONgFuLUz9U3MEoyqDRW4gYxDY0Ny9KzTLSEggvyi0qKQ1ITc0Pyg_KLS1KLFrFyuSSWZaYoBCVWJgIAbunfLjsAAAA"
+      },
+      {
+        "name": "Bryan Mbeumo",
+        "extensions": "Forward",
+        "link": "https://www.google.com/search?gl=us&q=Bryan+Mbeumo&stick=H4sIAAAAAAAAAONgFuLUz9U3MEoyqDRW4tVP1zc0zEjOiDc0Si_WEgouyC8qKQ5JTcwNyQ_KLy5JLVrEyuNUVJmYp-CblFqamw8AY5L8yD8AAAA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQri56BAgiEAo",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Bryan+Mbeumo&stick=H4sIAAAAAAAAAONgFuLUz9U3MEoyqDRW4tVP1zc0zEjOiDc0Si_WEgouyC8qKQ5JTcwNyQ_KLy5JLVrEyuNUVJmYp-CblFqamw8AY5L8yD8AAAA"
+      }
+    ],
+    "players_link": "https://www.google.com/search?gl=us&q=brentford+f.c.+players&stick=H4sIAAAAAAAAAONgFuLUz9U3MEoyqDRWQjC1ZLOTrfSLC_KLSoqhVHxJamKuVVF-cUlq0SJWsaSi1LyStPyiFIU0vWQ9hYKcxMrUouIdrIwAa9vtu1MAAAA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQMSgAegQIIhAB",
+    "players_stick": "H4sIAAAAAAAAAONgFuLUz9U3MEoyqDRWQjC1ZLOTrfSLC_KLSoqhVHxJamKuVVF-cUlq0SJWsaSi1LyStPyiFIU0vWQ9hYKcxMrUouIdrIwAa9vtu1MAAAA",
+    "profiles": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/BrentfordFC",
+        "image": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/49c1dff32e50437eee13a20c582c6f40aab54e8ad3861cf1fc3aa3b65c8fe06b3ec8a032e4fdef12.png"
+      },
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/brentfordfootballclub1889",
+        "image": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/49c1dff32e50437eee13a20c582c6f40aab54e8ad3861cf195bf1231e612ac78a4e0f103e9d762d4.png"
+      },
+      {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/brentfordfc",
+        "image": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/49c1dff32e50437eee13a20c582c6f40aab54e8ad3861cf16b8a09b1790ea04a7e8ad00c780cfdb3.png"
+      },
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/brentfordfc",
+        "image": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/49c1dff32e50437eee13a20c582c6f40aab54e8ad3861cf10ba643643d28826003a4b021807b8654.png"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/brentford-football-club",
+        "image": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/49c1dff32e50437eee13a20c582c6f40aab54e8ad3861cf16d39b745f326c740ddbcc0ecdc8ea94b.png"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Fulham F.C.",
+        "link": "https://www.google.com/search?gl=us&q=Fulham+F.C.&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN5R9CV7nxGW78H6GEwK9bej9f2x-OO3Wv5B8dLvupBpcnOGTpjb7XJoySwhrXlo6GKmQ5z2X1fJBn_osvTThnAN7ZHOPU8owGhx7hKvAR8ugUYg6OzRbbhZfvsL6lAPEl77gSZWkR_W3aa_8XEKsRsntR99BlLOba5D1VH0RT836Rk6SAiHc3baf5pxUETNO2vR3sDMLrWI_1fz1zxT-rEojmvXvg9hOkXAELgbl53xvgqJDmENM-ah-Mu88NX8c5unZ1kY%3D&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQxA16BAgkEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Fulham+F.C.&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN5R9CV7nxGW78H6GEwK9bej9f2x-OO3Wv5B8dLvupBpcnOGTpjb7XJoySwhrXlo6GKmQ5z2X1fJBn_osvTThnAN7ZHOPU8owGhx7hKvAR8ugUYg6OzRbbhZfvsL6lAPEl77gSZWkR_W3aa_8XEKsRsntR99BlLOba5D1VH0RT836Rk6SAiHc3baf5pxUETNO2vR3sDMLrWI_1fz1zxT-rEojmvXvg9hOkXAELgbl53xvgqJDmENM-ah-Mu88NX8c5unZ1kY%3D",
+        "image": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/49c1dff32e50437eee13a20c582c6f403342a4a35414a6ca4fcca246186a3c071b5f55a83e1f4fefbba74ef27f428447.png"
+      },
+      {
+        "name": "Brighton & Hove Albion F...",
+        "link": "https://www.google.com/search?gl=us&q=Brighton+%26+Hove+Albion+F.C.&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN1hT81EfHk4kue82HTMsSot0NxCeXh1V2l0ywJxhr1HbCablnZWiQj7ZXtsJ8YMrWhuDYTZEWB8NwTuTJToVEZkKJebLmhhe_9HUzwutgyf4vB7VDqlGoash_H03EwHp8AEtjVcAaX3B6aKATRvFnH6D-FVQg5auGNY1Jvf2q9UQyQLbspfSQA5LrUZfAx8wXIAMl8wTAyXSiu8YmCdOKfUk1_o_ydIYQYeLztaG49dOKDFySarBbvv04aepOtsIqc-T0QMjCYHlmwINKleJQjfNcIh9&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQxA16BAgkEAc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Brighton+%26+Hove+Albion+F.C.&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN1hT81EfHk4kue82HTMsSot0NxCeXh1V2l0ywJxhr1HbCablnZWiQj7ZXtsJ8YMrWhuDYTZEWB8NwTuTJToVEZkKJebLmhhe_9HUzwutgyf4vB7VDqlGoash_H03EwHp8AEtjVcAaX3B6aKATRvFnH6D-FVQg5auGNY1Jvf2q9UQyQLbspfSQA5LrUZfAx8wXIAMl8wTAyXSiu8YmCdOKfUk1_o_ydIYQYeLztaG49dOKDFySarBbvv04aepOtsIqc-T0QMjCYHlmwINKleJQjfNcIh9",
+        "image": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/49c1dff32e50437eee13a20c582c6f403342a4a35414a6ca4fcca246186a3c07beb5c31bc12fc278849a83a3e3e208c0.png"
+      },
+      {
+        "name": "Chelsea F.C.",
+        "link": "https://www.google.com/search?gl=us&q=Chelsea+F.C.&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN4du-nEjKiyOaC_3gMPTtdPVsMAWR7qSPAEr3dJsAaU4iC3xGCwt73n-S0oI46WSZ11SclgjhYErAKnj9Lzoz87k9JgbQKsXId80K2bbHBhdUamm7Zjk8I6QJc2Y1YYNbD0VTLFKW3MVAE_36LbE1xyTN3PtJTNCywIZNHh-YFJqo8fejkq1aWEVOuH8aUxW7EEbO_NC8KR7hBou32kJzaFqd0D0jcseMrZ4Au9RcKuIySwcomHptbyvOCjAK8q-41_rX1A%3D&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQxA16BAgkEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Chelsea+F.C.&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN4du-nEjKiyOaC_3gMPTtdPVsMAWR7qSPAEr3dJsAaU4iC3xGCwt73n-S0oI46WSZ11SclgjhYErAKnj9Lzoz87k9JgbQKsXId80K2bbHBhdUamm7Zjk8I6QJc2Y1YYNbD0VTLFKW3MVAE_36LbE1xyTN3PtJTNCywIZNHh-YFJqo8fejkq1aWEVOuH8aUxW7EEbO_NC8KR7hBou32kJzaFqd0D0jcseMrZ4Au9RcKuIySwcomHptbyvOCjAK8q-41_rX1A%3D",
+        "image": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/49c1dff32e50437eee13a20c582c6f403342a4a35414a6ca4fcca246186a3c07fa5ce35ce90ae3913fd266c3a41dfd26.png"
+      },
+      {
+        "name": "Premier League",
+        "link": "https://www.google.com/search?gl=us&q=Premier+League&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN5yso7g6nTAC65lUuZwrnCe7vvbEiFb-V55gmPd2_9Z7PBKXpGEo3cKptO_sQN_tmiFBTuWHvaQXDeS08x0Y3dF5Ml1IEXfDrah9hwwUcZSsQgYc_BtoN3KtSq_u_UxLEtraYryfcQJDoh8QkPejgH4YNyGJX2gwJNRjRn4QnYxjU5ADucE8IW01eBImusguKpg2iJuEanEJaonHP8j2i9UFIIx9m842nLwxrAnCt4WcqJY9NkO00yvmGoICGOpy8YEv-W8%3D&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQxA16BAgkEAs",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Premier+League&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN5yso7g6nTAC65lUuZwrnCe7vvbEiFb-V55gmPd2_9Z7PBKXpGEo3cKptO_sQN_tmiFBTuWHvaQXDeS08x0Y3dF5Ml1IEXfDrah9hwwUcZSsQgYc_BtoN3KtSq_u_UxLEtraYryfcQJDoh8QkPejgH4YNyGJX2gwJNRjRn4QnYxjU5ADucE8IW01eBImusguKpg2iJuEanEJaonHP8j2i9UFIIx9m842nLwxrAnCt4WcqJY9NkO00yvmGoICGOpy8YEv-W8%3D",
+        "image": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/49c1dff32e50437eee13a20c582c6f403342a4a35414a6ca4fcca246186a3c078bdfb0b8ca391e8dded39a4113025db4.png"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?gl=us&q=Brentford+F.C.&stick=H4sIAAAAAAAAAONgFuLUz9U3MEoyqDRWQjC1BIMzU1LLEyuL_VIrSoJLUguKF7HyORWl5pWk5RelKLjpOevtYGUEAMrfxeI_AAAA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQMSgAegQIJBAB",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MEoyqDRWQjC1BIMzU1LLEyuL_VIrSoJLUguKF7HyORWl5pWk5RelKLjpOevtYGUEAMrfxeI_AAAA"
+  },
+  "twitter_results": {
+    "title": "Brentford FC (@BrentfordFC) · Twitter",
+    "link": "https://twitter.com/BrentfordFC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "displayed_link": "https://twitter.com/BrentfordFC",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDL0LIuHoR7q2vWdqfyFlEv2MxWaboFv_w4iAExzls_Qvopqxq824HikWYpiIFI2bGpH_ZlnU&s=10",
+    "tweets": [
+      {
+        "link": "https://twitter.com/BrentfordFC/status/1623786473567793152?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "⏱️ FULL-TIME: A brilliant win for our young Bees who round off their Atlantic Cup campaign in positive fashion Well done, boys! #BrentfordB | #BrentfordFC",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDL0LIuHoR7q2vWdqfyFlEv2MxWaboFv_w4iAExzls_Qvopqxq824HikWYpiIFI2bGpH_ZlnU&s=10",
+        "published_date": "6 hours ago"
+      },
+      {
+        "link": "https://twitter.com/BrentfordFC/status/1623783414192037888?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "80' GOAL!!!! Isaac Holland heads home! #BrentfordB | #BrentfordFC",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR8cNfN4a48TjmIf6G1pw49-vVpAl3zXL27GLvgO0C0MVtG4-NijlonXO7CyQD2z0AhGHA8g&s",
+        "published_date": "6 hours ago"
+      },
+      {
+        "link": "https://twitter.com/BrentfordFC/status/1623805901969805319?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "Match Report: The write-up as #BrentfordB rounded off their time in Portugal with a win #BrentfordFC",
+        "published_date": "5 hours ago"
+      },
+      {
+        "link": "https://twitter.com/BrentfordFC/status/1623819422753333250?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "Tonight's match winner Isaac Holland was pleased to contribute to a successful Atlantic Cup campaign for our young Bees #BrentfordB | #BrentfordFC",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdtZdrSntzVAXHIvz5MXNkEtMoKz_IHi_RIT9JYTqsQXQmfg3iCJYNjPGu-s1dhfCi1l3-P51W&s=10",
+        "published_date": "4 hours ago"
+      },
+      {
+        "link": "https://twitter.com/BrentfordFC/status/1623816648858689537?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "Our B team head coach Neil MacFarlane was left proud of his players this evening as they leave Portugal with a win #BrentfordB | #BrentfordFC pic.twitter.com/OSqr9EE…",
+        "published_date": "4 hours ago"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&source=univ&fir=IRTI9LhCDKxcDM%252C5SUMrwByjv5mBM%252C_%253BxAyd_UCuW3xDIM%252C0Gm__d96dXrElM%252C_%253BOHhgGccQvwwhfM%252C0CwqkXdCUlrepM%252C_%253BYFRC-k-WzdOh6M%252CTRD5n-XV6vK6qM%252C_%253BSH_FaRtcIIq3wM%252CJDF7VHRPi4-hpM%252C_%253BYqcX0SwNfyEnWM%252Cv5IkcSW63PtjoM%252C_%253BwpYX890aMTc4SM%252CcGm4lkF4DTuFvM%252C_%253BPMCj0PqEGNZ8QM%252CwAEBvYg_QOYIZM%252C_%253Bgn9e3rjYzDmpQM%252CgesVk42y-vPiOM%252C_%253BtjkZ5YVBoa2KMM%252CTRD5n-XV6vK6qM%252C_&usg=AI4_-kS68Zajr5Nct_AoXNR1Wf8cYpgaDQ&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ9AF6BAg2EAA#imgrc=IRTI9LhCDKxcDM",
+      "source": "https://www.facebook.com/brentfordfootballclub1889/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSao6-d_8mXmRTPRqBbJOeEJHqlnJnCBXy9rJYQAOXOXQ&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&source=univ&fir=IRTI9LhCDKxcDM%252C5SUMrwByjv5mBM%252C_%253BxAyd_UCuW3xDIM%252C0Gm__d96dXrElM%252C_%253BOHhgGccQvwwhfM%252C0CwqkXdCUlrepM%252C_%253BYFRC-k-WzdOh6M%252CTRD5n-XV6vK6qM%252C_%253BSH_FaRtcIIq3wM%252CJDF7VHRPi4-hpM%252C_%253BYqcX0SwNfyEnWM%252Cv5IkcSW63PtjoM%252C_%253BwpYX890aMTc4SM%252CcGm4lkF4DTuFvM%252C_%253BPMCj0PqEGNZ8QM%252CwAEBvYg_QOYIZM%252C_%253Bgn9e3rjYzDmpQM%252CgesVk42y-vPiOM%252C_%253BtjkZ5YVBoa2KMM%252CTRD5n-XV6vK6qM%252C_&usg=AI4_-kS68Zajr5Nct_AoXNR1Wf8cYpgaDQ&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ9AF6BAg8EAA#imgrc=xAyd_UCuW3xDIM",
+      "source": "https://twitter.com/BrentfordFC",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKt1UbEpSM6dea5zRDPf66zI7u2qBsEujNbWotVHsGvw&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&source=univ&fir=IRTI9LhCDKxcDM%252C5SUMrwByjv5mBM%252C_%253BxAyd_UCuW3xDIM%252C0Gm__d96dXrElM%252C_%253BOHhgGccQvwwhfM%252C0CwqkXdCUlrepM%252C_%253BYFRC-k-WzdOh6M%252CTRD5n-XV6vK6qM%252C_%253BSH_FaRtcIIq3wM%252CJDF7VHRPi4-hpM%252C_%253BYqcX0SwNfyEnWM%252Cv5IkcSW63PtjoM%252C_%253BwpYX890aMTc4SM%252CcGm4lkF4DTuFvM%252C_%253BPMCj0PqEGNZ8QM%252CwAEBvYg_QOYIZM%252C_%253Bgn9e3rjYzDmpQM%252CgesVk42y-vPiOM%252C_%253BtjkZ5YVBoa2KMM%252CTRD5n-XV6vK6qM%252C_&usg=AI4_-kS68Zajr5Nct_AoXNR1Wf8cYpgaDQ&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ9AF6BAhzEAA#imgrc=OHhgGccQvwwhfM",
+      "source": "https://www.beesunited.org.uk/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfczg0ccfDm74kmJnP-m9vf6KIHzI9KV6ppF6JqUH8&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&source=univ&fir=IRTI9LhCDKxcDM%252C5SUMrwByjv5mBM%252C_%253BxAyd_UCuW3xDIM%252C0Gm__d96dXrElM%252C_%253BOHhgGccQvwwhfM%252C0CwqkXdCUlrepM%252C_%253BYFRC-k-WzdOh6M%252CTRD5n-XV6vK6qM%252C_%253BSH_FaRtcIIq3wM%252CJDF7VHRPi4-hpM%252C_%253BYqcX0SwNfyEnWM%252Cv5IkcSW63PtjoM%252C_%253BwpYX890aMTc4SM%252CcGm4lkF4DTuFvM%252C_%253BPMCj0PqEGNZ8QM%252CwAEBvYg_QOYIZM%252C_%253Bgn9e3rjYzDmpQM%252CgesVk42y-vPiOM%252C_%253BtjkZ5YVBoa2KMM%252CTRD5n-XV6vK6qM%252C_&usg=AI4_-kS68Zajr5Nct_AoXNR1Wf8cYpgaDQ&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ9AF6BAh1EAA#imgrc=YFRC-k-WzdOh6M",
+      "source": "https://www.logodesignlove.com/brentford-fc-crest-redesign",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqaUCwVQEmwRdsUcXcETX95Re0rbEWXKSqsqngz-Ukg&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&source=univ&fir=IRTI9LhCDKxcDM%252C5SUMrwByjv5mBM%252C_%253BxAyd_UCuW3xDIM%252C0Gm__d96dXrElM%252C_%253BOHhgGccQvwwhfM%252C0CwqkXdCUlrepM%252C_%253BYFRC-k-WzdOh6M%252CTRD5n-XV6vK6qM%252C_%253BSH_FaRtcIIq3wM%252CJDF7VHRPi4-hpM%252C_%253BYqcX0SwNfyEnWM%252Cv5IkcSW63PtjoM%252C_%253BwpYX890aMTc4SM%252CcGm4lkF4DTuFvM%252C_%253BPMCj0PqEGNZ8QM%252CwAEBvYg_QOYIZM%252C_%253Bgn9e3rjYzDmpQM%252CgesVk42y-vPiOM%252C_%253BtjkZ5YVBoa2KMM%252CTRD5n-XV6vK6qM%252C_&usg=AI4_-kS68Zajr5Nct_AoXNR1Wf8cYpgaDQ&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ9AF6BAhREAA#imgrc=SH_FaRtcIIq3wM",
+      "source": "https://www.brentfordfc.com/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHKHAcqLbMXvNZ_aBGS4jQE6knPpjkOF6Z0uP5EC4_Q&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&source=univ&fir=IRTI9LhCDKxcDM%252C5SUMrwByjv5mBM%252C_%253BxAyd_UCuW3xDIM%252C0Gm__d96dXrElM%252C_%253BOHhgGccQvwwhfM%252C0CwqkXdCUlrepM%252C_%253BYFRC-k-WzdOh6M%252CTRD5n-XV6vK6qM%252C_%253BSH_FaRtcIIq3wM%252CJDF7VHRPi4-hpM%252C_%253BYqcX0SwNfyEnWM%252Cv5IkcSW63PtjoM%252C_%253BwpYX890aMTc4SM%252CcGm4lkF4DTuFvM%252C_%253BPMCj0PqEGNZ8QM%252CwAEBvYg_QOYIZM%252C_%253Bgn9e3rjYzDmpQM%252CgesVk42y-vPiOM%252C_%253BtjkZ5YVBoa2KMM%252CTRD5n-XV6vK6qM%252C_&usg=AI4_-kS68Zajr5Nct_AoXNR1Wf8cYpgaDQ&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ9AF6BAhfEAA#imgrc=YqcX0SwNfyEnWM",
+      "source": "https://www.skysports.com/football/news/11689/12033358/brentford-how-thomas-franks-bees-completed-a-remarkable-rise-to-the-premier-league",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIz49hTLKtPJFY8XWE43eW2kDewp27_WZGVj4Mo3eLdQ&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&source=univ&fir=IRTI9LhCDKxcDM%252C5SUMrwByjv5mBM%252C_%253BxAyd_UCuW3xDIM%252C0Gm__d96dXrElM%252C_%253BOHhgGccQvwwhfM%252C0CwqkXdCUlrepM%252C_%253BYFRC-k-WzdOh6M%252CTRD5n-XV6vK6qM%252C_%253BSH_FaRtcIIq3wM%252CJDF7VHRPi4-hpM%252C_%253BYqcX0SwNfyEnWM%252Cv5IkcSW63PtjoM%252C_%253BwpYX890aMTc4SM%252CcGm4lkF4DTuFvM%252C_%253BPMCj0PqEGNZ8QM%252CwAEBvYg_QOYIZM%252C_%253Bgn9e3rjYzDmpQM%252CgesVk42y-vPiOM%252C_%253BtjkZ5YVBoa2KMM%252CTRD5n-XV6vK6qM%252C_&usg=AI4_-kS68Zajr5Nct_AoXNR1Wf8cYpgaDQ&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ9AF6BAhvEAA#imgrc=wpYX890aMTc4SM",
+      "source": "https://www.beescommunitydraw.com/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn2rbqVle-ABUPt2KH6F4MmsSSEdj1QHyacPOjUpJQ&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&source=univ&fir=IRTI9LhCDKxcDM%252C5SUMrwByjv5mBM%252C_%253BxAyd_UCuW3xDIM%252C0Gm__d96dXrElM%252C_%253BOHhgGccQvwwhfM%252C0CwqkXdCUlrepM%252C_%253BYFRC-k-WzdOh6M%252CTRD5n-XV6vK6qM%252C_%253BSH_FaRtcIIq3wM%252CJDF7VHRPi4-hpM%252C_%253BYqcX0SwNfyEnWM%252Cv5IkcSW63PtjoM%252C_%253BwpYX890aMTc4SM%252CcGm4lkF4DTuFvM%252C_%253BPMCj0PqEGNZ8QM%252CwAEBvYg_QOYIZM%252C_%253Bgn9e3rjYzDmpQM%252CgesVk42y-vPiOM%252C_%253BtjkZ5YVBoa2KMM%252CTRD5n-XV6vK6qM%252C_&usg=AI4_-kS68Zajr5Nct_AoXNR1Wf8cYpgaDQ&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ9AF6BAhwEAA#imgrc=PMCj0PqEGNZ8QM",
+      "source": "https://thebeautifulhistory.wordpress.com/clubs/brentford/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRac9JI52bbG9CZuRPNZr1JRTjXSFplBAV8SlULO7Z2eQ&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&source=univ&fir=IRTI9LhCDKxcDM%252C5SUMrwByjv5mBM%252C_%253BxAyd_UCuW3xDIM%252C0Gm__d96dXrElM%252C_%253BOHhgGccQvwwhfM%252C0CwqkXdCUlrepM%252C_%253BYFRC-k-WzdOh6M%252CTRD5n-XV6vK6qM%252C_%253BSH_FaRtcIIq3wM%252CJDF7VHRPi4-hpM%252C_%253BYqcX0SwNfyEnWM%252Cv5IkcSW63PtjoM%252C_%253BwpYX890aMTc4SM%252CcGm4lkF4DTuFvM%252C_%253BPMCj0PqEGNZ8QM%252CwAEBvYg_QOYIZM%252C_%253Bgn9e3rjYzDmpQM%252CgesVk42y-vPiOM%252C_%253BtjkZ5YVBoa2KMM%252CTRD5n-XV6vK6qM%252C_&usg=AI4_-kS68Zajr5Nct_AoXNR1Wf8cYpgaDQ&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ9AF6BAhxEAA#imgrc=gn9e3rjYzDmpQM",
+      "source": "https://www.vavel.com/en/football/2021/11/29/premier-league/1094454-brentford-fc-aka-the-bees-a-history-of-the-nickname.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnWP0PTXudt5W_KB95Ztw-Ns9a6n1IY_IYVQXnOhH4bA&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&source=univ&fir=IRTI9LhCDKxcDM%252C5SUMrwByjv5mBM%252C_%253BxAyd_UCuW3xDIM%252C0Gm__d96dXrElM%252C_%253BOHhgGccQvwwhfM%252C0CwqkXdCUlrepM%252C_%253BYFRC-k-WzdOh6M%252CTRD5n-XV6vK6qM%252C_%253BSH_FaRtcIIq3wM%252CJDF7VHRPi4-hpM%252C_%253BYqcX0SwNfyEnWM%252Cv5IkcSW63PtjoM%252C_%253BwpYX890aMTc4SM%252CcGm4lkF4DTuFvM%252C_%253BPMCj0PqEGNZ8QM%252CwAEBvYg_QOYIZM%252C_%253Bgn9e3rjYzDmpQM%252CgesVk42y-vPiOM%252C_%253BtjkZ5YVBoa2KMM%252CTRD5n-XV6vK6qM%252C_&usg=AI4_-kS68Zajr5Nct_AoXNR1Wf8cYpgaDQ&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ9AF6BAhyEAA#imgrc=tjkZ5YVBoa2KMM",
+      "source": "https://www.logodesignlove.com/brentford-fc-crest-redesign",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6cSdXj9sG-GbkrgTz_iOAxbFdVkRd_sHaGfOUZlLJjw&s"
+    }
+  ],
+  "inline_images_suggested_searches": [
+    {
+      "name": "logo",
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&chips=q:brentford+bees,g_1:logo:0l7m_luYsfc%3D&usg=AI4_-kTC-EkDfihmhCuMDUpG17gJMf4QbA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQgIoDKAB6BAh0EBA",
+      "chips": "q:brentford+bees,g_1:logo:0l7m_luYsfc%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Abrentford%2Bbees%2Cg_1%3Alogo%3A0l7m_luYsfc%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5a9UU4a0N1HwltLGEWsfoSn1XNx9rFa4CVbueIPdZPA&s"
+    },
+    {
+      "name": "stadium",
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&chips=q:brentford+bees,g_1:stadium:-w0uXq4T4xQ%3D&usg=AI4_-kSqeV-tcIu-2RrjnJjRID4cMmqsgg&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQgIoDKAF6BAh0EBQ",
+      "chips": "q:brentford+bees,g_1:stadium:-w0uXq4T4xQ%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Abrentford%2Bbees%2Cg_1%3Astadium%3A-w0uXq4T4xQ%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqjfPkOfisidrv-0sjvh7b6M248MB80YKSA4BEV8YrG2poDlEXXy722GaTmw&s"
+    },
+    {
+      "name": "crest",
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&chips=q:brentford+bees,g_1:crest:B5HyKbhhQOU%3D&usg=AI4_-kT9V0sE3gcS__PrY-jd7O6ve_BE8w&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQgIoDKAJ6BAh0EBg",
+      "chips": "q:brentford+bees,g_1:crest:B5HyKbhhQOU%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Abrentford%2Bbees%2Cg_1%3Acrest%3AB5HyKbhhQOU%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBUp-odNK9U8dBoa1Kjb0wWKeRKx_OAAKUbr6T6Ptx8FMUKhp_YWNXh-ZNlQ&s"
+    },
+    {
+      "name": "background",
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&chips=q:brentford+bees,g_1:background:3YufHHf34uE%3D&usg=AI4_-kTm6bdmiDZWiV7UHAZ_kJXs8W6KJA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQgIoDKAN6BAh0EBw",
+      "chips": "q:brentford+bees,g_1:background:3YufHHf34uE%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Abrentford%2Bbees%2Cg_1%3Abackground%3A3YufHHf34uE%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuIZVuIVTowN5Tb5-BFSdpacIZqncVuu61zgl3ARRgLLRFhjLPtMFZhNaNDQ&s"
+    },
+    {
+      "name": "jersey",
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&chips=q:brentford+bees,g_1:jersey:8j-LeNlw9po%3D&usg=AI4_-kT9fpEjy8VYxf2JM_bpMhBE8gd-_Q&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQgIoDKAR6BAh0ECA",
+      "chips": "q:brentford+bees,g_1:jersey:8j-LeNlw9po%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Abrentford%2Bbees%2Cg_1%3Ajersey%3A8j-LeNlw9po%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0FCULClokdHd3hYldbiG5dU0mxe-CgjcqX5IDtdhfA2mrzpe5RCQ9D_BRsA&s"
+    },
+    {
+      "name": "kit",
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&chips=q:brentford+bees,g_1:kit:kzZRscdQ3OM%3D&usg=AI4_-kT8rIoInrx0mDlDg9Vmfknui9e6eA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQgIoDKAV6BAh0ECQ",
+      "chips": "q:brentford+bees,g_1:kit:kzZRscdQ3OM%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Abrentford%2Bbees%2Cg_1%3Akit%3AkzZRscdQ3OM%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgbiQ8jOE8A5pdEFhNf31SO6xyFHoi1f0vm1HTu7C58zw2bwnSGizhpqEfw&s"
+    },
+    {
+      "name": "tattoo",
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&chips=q:brentford+bees,g_1:tattoo:mPWC5CHl1HY%3D&usg=AI4_-kS9iNXvJnaQzpMuDmrXc6cMXuk6Bg&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQgIoDKAZ6BAh0ECg",
+      "chips": "q:brentford+bees,g_1:tattoo:mPWC5CHl1HY%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Abrentford%2Bbees%2Cg_1%3Atattoo%3AmPWC5CHl1HY%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwy6mwTlA6rXrJliKliQ8GMoKOyoDtdqR13DpjqjMx9MayWU-_6ZsnxbNTA&s"
+    },
+    {
+      "name": "shirt",
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&chips=q:brentford+bees,g_1:shirt:Ei5tIqlksVU%3D&usg=AI4_-kTXKsj5m0l3RyQvRgNjipo8p34DSA&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQgIoDKAd6BAh0ECw",
+      "chips": "q:brentford+bees,g_1:shirt:Ei5tIqlksVU%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Abrentford%2Bbees%2Cg_1%3Ashirt%3AEi5tIqlksVU%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-CKWZj6v7XRpXFxfOXhnj83n6dy3XimBs77B_UWwKBQ&s"
+    },
+    {
+      "name": "soccer",
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&chips=q:brentford+bees,g_1:soccer:6V1HyVwJeXM%3D&usg=AI4_-kQIvUlCODNLpXsaMfNNzWx5Bk1mZQ&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQgIoDKAh6BAh0EDA",
+      "chips": "q:brentford+bees,g_1:soccer:6V1HyVwJeXM%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Abrentford%2Bbees%2Cg_1%3Asoccer%3A6V1HyVwJeXM%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6HXraAbW7XBW4o06MzYx6x9kdKXSkMoUQ9eoK39_Uw&s"
+    },
+    {
+      "name": "team",
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&chips=q:brentford+bees,g_1:team:d3yzYFMlP4w%3D&usg=AI4_-kQD3r9yM51PyiP7eb7IPIShMZEqOQ&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQgIoDKAl6BAh0EDQ",
+      "chips": "q:brentford+bees,g_1:team:d3yzYFMlP4w%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Abrentford%2Bbees%2Cg_1%3Ateam%3Ad3yzYFMlP4w%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2uLNgYhga0NL4PGuOasf7K457QskOPeaDxLVsMOufJA&s"
+    },
+    {
+      "name": "old",
+      "link": "https://www.google.com/search?gl=us&q=brentford+bees&tbm=isch&chips=q:brentford+bees,g_1:old:bhoLHSB_G2Q%3D&usg=AI4_-kRpGxDUMJOtgKGx8CR6fDTbMaqfEg&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQgIoDKAp6BAh0EDg",
+      "chips": "q:brentford+bees,g_1:old:bhoLHSB_G2Q%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Abrentford%2Bbees%2Cg_1%3Aold%3AbhoLHSB_G2Q%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ7KoYtDVqkAfWMZNWL3_7VgKLvQbGBROYbkx1c2yoxA&s"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Mee, Mbeumo and Jensen fire Bees to win! | Brentford 3-0 ...",
+      "link": "https://www.google.com#fpstate=ive&vld=cid:d62fbd36,vid:koi5_HsadOU",
+      "thumbnail": "https://i.ytimg.com/vi/koi5_HsadOU/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kZIC7KyrS314xOMXWE__g-6eT-Lw",
+      "channel": "Brentford Football Club",
+      "duration": "6:06",
+      "platform": "YouTube",
+      "date": "3 days ago"
+    },
+    {
+      "position": 2,
+      "title": "TONEY and JENSEN fire Bees to ANOTHER win | Brentford 2 ...",
+      "link": "https://www.google.com#fpstate=ive&vld=cid:200853a4,vid:4XwmLGTqvCg",
+      "thumbnail": "https://i.ytimg.com/vi/4XwmLGTqvCg/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mt2Y6VO5Tn3d8ZHhXGWvSY-Ry0jQ",
+      "channel": "Brentford Football Club",
+      "duration": "8:25",
+      "platform": "YouTube",
+      "date": "3 weeks ago",
+      "key_moments": [
+        {
+          "time": "04:29",
+          "title": "Shot",
+          "link": "https://www.youtube.com/watch?v=4XwmLGTqvCg&t=269",
+          "percentage": 53
+        },
+        {
+          "time": "05:12",
+          "title": "Shot",
+          "link": "https://www.youtube.com/watch?v=4XwmLGTqvCg&t=312",
+          "percentage": 62
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Brentford 4-0 Manchester United | The Bees THRASH The ...",
+      "link": "https://www.google.com#fpstate=ive&vld=cid:ad3d4786,vid:B8L51PxSO7s",
+      "thumbnail": "https://i.ytimg.com/vi/B8L51PxSO7s/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lAP77fNpxZhNTWC6YRnXRnaD69rg",
+      "channel": "Brentford Football Club",
+      "duration": "2:03",
+      "platform": "YouTube",
+      "date": "Aug 13, 2022"
+    }
+  ],
+  "top_stories": [
+    {
+      "title": "Preview: Arsenal vs. Brentford - prediction, team news, lineups",
+      "link": "https://www.sportsmole.co.uk/football/arsenal/title-race/preview/preview-arsenal-vs-brentford-prediction-team-news-lineups_506245.html",
+      "source": "Sports Mole",
+      "date": "4 hours ago",
+      "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/f2e140dddd385e4d2d33d2dc2e18622e6d60e3cd4a3152c5.jpeg"
+    },
+    {
+      "title": "3 threats Brentford will pose when they visit the Emirates on Saturday",
+      "link": "https://paininthearsenal.com/2023/02/09/3-threats-brentford-pose-visit-arsenal-saturday/",
+      "source": "Pain in the Arsenal",
+      "date": "16 hours ago",
+      "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/f2e140dddd385e4d1fcf5827237f2a0488ab9086e0d95bda.jpeg"
+    },
+    {
+      "title": "The best photos as we build up to Brentford",
+      "link": "https://www.arsenal.com/news/best-photos-we-build-brentford",
+      "source": "Arsenal.com",
+      "date": "10 hours ago",
+      "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/f2e140dddd385e4dff8cebfb406e3ca010eeb56a4a7db488.jpeg"
+    },
+    {
+      "title": "Paul Merson sends Mikel Arteta clear Premier League title warning ahead of Arsenal vs Brentford",
+      "link": "https://www.football.london/arsenal-fc/news/arsenal-merson-premier-league-warning-26202467",
+      "source": "Football.London",
+      "date": "5 hours ago",
+      "thumbnail": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/f2e140dddd385e4d0ccf80aba48a0afff518d5954733df9e.jpeg"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Why are Brentford called the Bees?",
+      "snippet": "Brentford's nickname is \"The Bees\". The nickname was unintentionally created by students of Borough Road College in the 1890s, when they attended a match and shouted the college's chant \"buck up Bs\" in support of their friend and then-Brentford player Joseph Gettins.",
+      "title": "Brentford F.C. - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Brentford_F.C.#:~:text=Brentford's%20nickname%20is%20%22The%20Bees,then%2DBrentford%20player%20Joseph%20Gettins.",
+      "displayed_link": "https://en.wikipedia.org › wiki › Brentford_F.C.",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVWRIQkpWbE55VDJSaWIySTBTWGQ1YldOSWQwUXhZbVZYUmxrdE4yVlVjVXQxYjFscWQxSXpkbTF6TjNoUGJVUnFXV1V5Y3paTFJIbEtSbU5mWjJWUE1HOVhUa0ZMRWhkclRFaHNXVGxJYWtOeGRXVTFUbTlRZUhCdFYzbEJheG9pUVVaZk5rMUJUblJYU1RsWWNHeDRNMjloZFVKcFVHSmphVEV6Wmt4WGNYTjFRUSIsImZjdiI6IjMiLCJlaSI6ImtMSGxZOUhqQ3F1ZTVOb1B4cG1XeUFrIiwicWMiOiJDZzVpY21WdWRHWnZjbVFnWW1WbGN4QUFmZUY2TkQ4IiwicXVlc3Rpb24iOiJXaHkgYXJlIEJyZW50Zm9yZCBjYWxsZWQgdGhlIEJlZXM/IiwibGsiOiJHaUYzYUhrZ1lYSmxJR0p5Wlc1MFptOXlaQ0JqWVd4c1pXUWdkR2hsSUdKbFpYTSIsImJzIjoiYy1OUzUxSUt6NmhVU0N4S1ZYQXFTczByU2NzdlNsRklUc3pKU1UxUktNa0FDcWFtRnR0THJKZmdVdUtTRGM5SUxGSElMRVpTbUphWW0xOWFyQUJrMjB1ODl1YVM1NUx5UkpaT1ZDaEtUY3hSS01oSlRFNjFsMWlrektYQUpRMDJKQ2MxTWIwMEZkVXNKM3VKSndrQ2pBQSIsImlkIjoiZmNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVWRIQkpWbE55VDJSaWIySTBTWGQ1YldOSWQwUXhZbVZYUmxrdE4yVlVjVXQxYjFscWQxSXpkbTF6TjNoUGJVUnFXV1V5Y3paTFJIbEtSbU5mWjJWUE1HOVhUa0ZMRWhkclRFaHNXVGxJYWtOeGRXVTFUbTlRZUhCdFYzbEJheG9pUVVaZk5rMUJUblJYU1RsWWNHeDRNMjloZFVKcFVHSmphVEV6Wmt4WGNYTjFRUSIsImZjdiI6IjMiLCJlaSI6ImtMSGxZOUhqQ3F1ZTVOb1B4cG1XeUFrIiwicWMiOiJDZzVpY21WdWRHWnZjbVFnWW1WbGN4QUFmZUY2TkQ4IiwicXVlc3Rpb24iOiJXaHkgYXJlIEJyZW50Zm9yZCBjYWxsZWQgdGhlIEJlZXM%2FIiwibGsiOiJHaUYzYUhrZ1lYSmxJR0p5Wlc1MFptOXlaQ0JqWVd4c1pXUWdkR2hsSUdKbFpYTSIsImJzIjoiYy1OUzUxSUt6NmhVU0N4S1ZYQXFTczByU2NzdlNsRklUc3pKU1UxUktNa0FDcWFtRnR0THJKZmdVdUtTRGM5SUxGSElMRVpTbUphWW0xOWFyQUJrMjB1ODl1YVM1NUx5UkpaT1ZDaEtUY3hSS01oSlRFNjFsMWlrektYQUpRMDJKQ2MxTWIwMEZkVXNKM3VKSndrQ2pBQSIsImlkIjoiZmNfNSJ9"
+    },
+    {
+      "question": "What is Brentford famous for?",
+      "snippet": "The area's visitor attractions include Watermans arts centre at 40 High Street, and the Musical Museum and the London Museum of Water & Steam at Kew Bridge.",
+      "title": "Brentford - Hidden London",
+      "link": "https://hidden-london.com/gazetteer/brentford/#:~:text=The%20area's%20visitor%20attractions%20include,Water%20%26%20Steam%20at%20Kew%20Bridge.",
+      "displayed_link": "https://hidden-london.com › gazetteer › brentford",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVWRIQkpWbE55VDJSaWIySTBTWGQ1YldOSWQwUXhZbVZYUmxrdE4yVlVjVXQxYjFscWQxSXpkbTF6TjNoUGJVUnFXV1V5Y3paTFJIbEtSbU5mWjJWUE1HOVhUa0ZMRWhkclRFaHNXVGxJYWtOeGRXVTFUbTlRZUhCdFYzbEJheG9pUVVaZk5rMUJUblJYU1RsWWNHeDRNMjloZFVKcFVHSmphVEV6Wmt4WGNYTjFRUSIsImZjdiI6IjMiLCJlaSI6ImtMSGxZOUhqQ3F1ZTVOb1B4cG1XeUFrIiwicWMiOiJDZzVpY21WdWRHWnZjbVFnWW1WbGN4QUFmZUY2TkQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIEJyZW50Zm9yZCBmYW1vdXMgZm9yPyIsImxrIjoiR2h4M2FHRjBJR2x6SUdKeVpXNTBabTl5WkNCbVlXMXZkWE1nWm05eSIsImJzIjoiYy1OUzUxSUt6NmhVU0N4S1ZYQXFTczByU2NzdlNsRklUc3pKU1UxUktNa0FDcWFtRnR0THJKZmdVdUtTRGM5SUxGSElMRVpTbUphWW0xOWFyQUJrMjB1ODl1YVM1NUx5UkpaT1ZDaEtUY3hSS01oSlRFNjFsMWlrektYQUpRMDJKQ2MxTWIwMEZkVXNKM3VKSndrQ2pBQSIsImlkIjoiZmNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVWRIQkpWbE55VDJSaWIySTBTWGQ1YldOSWQwUXhZbVZYUmxrdE4yVlVjVXQxYjFscWQxSXpkbTF6TjNoUGJVUnFXV1V5Y3paTFJIbEtSbU5mWjJWUE1HOVhUa0ZMRWhkclRFaHNXVGxJYWtOeGRXVTFUbTlRZUhCdFYzbEJheG9pUVVaZk5rMUJUblJYU1RsWWNHeDRNMjloZFVKcFVHSmphVEV6Wmt4WGNYTjFRUSIsImZjdiI6IjMiLCJlaSI6ImtMSGxZOUhqQ3F1ZTVOb1B4cG1XeUFrIiwicWMiOiJDZzVpY21WdWRHWnZjbVFnWW1WbGN4QUFmZUY2TkQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIEJyZW50Zm9yZCBmYW1vdXMgZm9yPyIsImxrIjoiR2h4M2FHRjBJR2x6SUdKeVpXNTBabTl5WkNCbVlXMXZkWE1nWm05eSIsImJzIjoiYy1OUzUxSUt6NmhVU0N4S1ZYQXFTczByU2NzdlNsRklUc3pKU1UxUktNa0FDcWFtRnR0THJKZmdVdUtTRGM5SUxGSElMRVpTbUphWW0xOWFyQUJrMjB1ODl1YVM1NUx5UkpaT1ZDaEtUY3hSS01oSlRFNjFsMWlrektYQUpRMDJKQ2MxTWIwMEZkVXNKM3VKSndrQ2pBQSIsImlkIjoiZmNfNSJ9"
+    },
+    {
+      "question": "Is Brentford a real place?",
+      "snippet": "Brentford is a suburban town in West London, England and part of the London Borough of Hounslow. It lies at the confluence of the River Brent and the Thames, 8 miles (13 km) west of Charing Cross.",
+      "title": "Brentford - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Brentford#:~:text=Brentford%20is%20a%20suburban%20town,km)%20west%20of%20Charing%20Cross.",
+      "displayed_link": "https://en.wikipedia.org › wiki › Brentford",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFjTPGH34-6i7wBLUf-2OxObG2klDzF2hWaMXk5fCkog&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVWRIQkpWbE55VDJSaWIySTBTWGQ1YldOSWQwUXhZbVZYUmxrdE4yVlVjVXQxYjFscWQxSXpkbTF6TjNoUGJVUnFXV1V5Y3paTFJIbEtSbU5mWjJWUE1HOVhUa0ZMRWhkclRFaHNXVGxJYWtOeGRXVTFUbTlRZUhCdFYzbEJheG9pUVVaZk5rMUJUblJYU1RsWWNHeDRNMjloZFVKcFVHSmphVEV6Wmt4WGNYTjFRUSIsImZjdiI6IjMiLCJlaSI6ImtMSGxZOUhqQ3F1ZTVOb1B4cG1XeUFrIiwicWMiOiJDZzVpY21WdWRHWnZjbVFnWW1WbGN4QUFmZUY2TkQ4IiwicXVlc3Rpb24iOiJJcyBCcmVudGZvcmQgYSByZWFsIHBsYWNlPyIsImxrIjoiR2hscGN5QmljbVZ1ZEdadmNtUWdZU0J5WldGc0lIQnNZV05sIiwiYnMiOiJjLU5TNTFJS3o2aFVTQ3hLVlhBcVNzMHJTY3N2U2xGSVRzekpTVTFSS01rQUNxYW1GdHRMckpmZ1V1S1NEYzlJTEZISUxFWlNtSmFZbTE5YXJBQmsyMHU4OXVhUzU1THlSSlpPVkNoS1RjeFJLTWhKVEU2MWwxaWt6S1hBSlEwMkpDYzFNYjAwRmRVc0ozdUpKd2tDakFBIiwiaWQiOiJmY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVWRIQkpWbE55VDJSaWIySTBTWGQ1YldOSWQwUXhZbVZYUmxrdE4yVlVjVXQxYjFscWQxSXpkbTF6TjNoUGJVUnFXV1V5Y3paTFJIbEtSbU5mWjJWUE1HOVhUa0ZMRWhkclRFaHNXVGxJYWtOeGRXVTFUbTlRZUhCdFYzbEJheG9pUVVaZk5rMUJUblJYU1RsWWNHeDRNMjloZFVKcFVHSmphVEV6Wmt4WGNYTjFRUSIsImZjdiI6IjMiLCJlaSI6ImtMSGxZOUhqQ3F1ZTVOb1B4cG1XeUFrIiwicWMiOiJDZzVpY21WdWRHWnZjbVFnWW1WbGN4QUFmZUY2TkQ4IiwicXVlc3Rpb24iOiJJcyBCcmVudGZvcmQgYSByZWFsIHBsYWNlPyIsImxrIjoiR2hscGN5QmljbVZ1ZEdadmNtUWdZU0J5WldGc0lIQnNZV05sIiwiYnMiOiJjLU5TNTFJS3o2aFVTQ3hLVlhBcVNzMHJTY3N2U2xGSVRzekpTVTFSS01rQUNxYW1GdHRMckpmZ1V1S1NEYzlJTEZISUxFWlNtSmFZbTE5YXJBQmsyMHU4OXVhUzU1THlSSlpPVkNoS1RjeFJLTWhKVEU2MWwxaWt6S1hBSlEwMkpDYzFNYjAwRmRVc0ozdUpKd2tDakFBIiwiaWQiOiJmY181In0%3D"
+    },
+    {
+      "question": "What league is Brentford B?",
+      "snippet": "Following the first team's promotion to the Premier League in 2021, the club reopened its academy in time for the start of the 2022–23 season, under the Elite Player Performance Plan, while retaining the B team.",
+      "title": "Brentford F.C. Reserves and Academy - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Brentford_F.C._Reserves_and_Academy#:~:text=Following%20the%20first%20team's%20promotion,while%20retaining%20the%20B%20team.",
+      "displayed_link": "https://en.wikipedia.org › wiki › Brentford_F.C._Reserv...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVWRIQkpWbE55VDJSaWIySTBTWGQ1YldOSWQwUXhZbVZYUmxrdE4yVlVjVXQxYjFscWQxSXpkbTF6TjNoUGJVUnFXV1V5Y3paTFJIbEtSbU5mWjJWUE1HOVhUa0ZMRWhkclRFaHNXVGxJYWtOeGRXVTFUbTlRZUhCdFYzbEJheG9pUVVaZk5rMUJUblJYU1RsWWNHeDRNMjloZFVKcFVHSmphVEV6Wmt4WGNYTjFRUSIsImZjdiI6IjMiLCJlaSI6ImtMSGxZOUhqQ3F1ZTVOb1B4cG1XeUFrIiwicWMiOiJDZzVpY21WdWRHWnZjbVFnWW1WbGN4QUFmZUY2TkQ4IiwicXVlc3Rpb24iOiJXaGF0IGxlYWd1ZSBpcyBCcmVudGZvcmQgQj8iLCJsayI6IkdoNTNhR0YwSUd4bFlXZDFaU0JoY21VZ1luSmxiblJtYjNKa0lHSWdhVzQiLCJicyI6ImMtTlM1MUlLejZoVVNDeEtWWEFxU3MwclNjc3ZTbEZJVHN6SlNVMVJLTWtBQ3FhbUZ0dExySmZnVXVLU0RjOUlMRkhJTEVaU21KYVltMTlhckFCazIwdTg5dWFTNTVMeVJKWk9WQ2hLVGN4UktNaEpURTYxbDFpa3pLWEFKUTAySkNjMU1iMDBGZFVzSjN1Skp3a0NqQUEiLCJpZCI6ImZjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVWRIQkpWbE55VDJSaWIySTBTWGQ1YldOSWQwUXhZbVZYUmxrdE4yVlVjVXQxYjFscWQxSXpkbTF6TjNoUGJVUnFXV1V5Y3paTFJIbEtSbU5mWjJWUE1HOVhUa0ZMRWhkclRFaHNXVGxJYWtOeGRXVTFUbTlRZUhCdFYzbEJheG9pUVVaZk5rMUJUblJYU1RsWWNHeDRNMjloZFVKcFVHSmphVEV6Wmt4WGNYTjFRUSIsImZjdiI6IjMiLCJlaSI6ImtMSGxZOUhqQ3F1ZTVOb1B4cG1XeUFrIiwicWMiOiJDZzVpY21WdWRHWnZjbVFnWW1WbGN4QUFmZUY2TkQ4IiwicXVlc3Rpb24iOiJXaGF0IGxlYWd1ZSBpcyBCcmVudGZvcmQgQj8iLCJsayI6IkdoNTNhR0YwSUd4bFlXZDFaU0JoY21VZ1luSmxiblJtYjNKa0lHSWdhVzQiLCJicyI6ImMtTlM1MUlLejZoVVNDeEtWWEFxU3MwclNjc3ZTbEZJVHN6SlNVMVJLTWtBQ3FhbUZ0dExySmZnVXVLU0RjOUlMRkhJTEVaU21KYVltMTlhckFCazIwdTg5dWFTNTVMeVJKWk9WQ2hLVGN4UktNaEpURTYxbDFpa3pLWEFKUTAySkNjMU1iMDBGZFVzSjN1Skp3a0NqQUEiLCJpZCI6ImZjXzUifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Brentford FC: Home",
+      "link": "https://www.brentfordfc.com/",
+      "displayed_link": "https://www.brentfordfc.com",
+      "snippet": "Filming & Stadium Hire. The Gtech Community Stadium is the home of Brentford Football Club and is a versatile venue based at the heart of West London. find out ...",
+      "snippet_highlighted_words": [
+        "Brentford"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Shop",
+            "link": "https://shop.brentfordfc.com/",
+            "snippet": "21/23 Home Kit - 22/24 Second Kit - Mens Clothing - Souvenirs - ..."
+          },
+          {
+            "title": "Tickets",
+            "link": "https://tickets.brentfordfc.com/content?lang=en",
+            "snippet": "Buy your tickets online for Brentford Football Club."
+          },
+          {
+            "title": "Teams",
+            "link": "https://www.brentfordfc.com/en/teams/mens-team",
+            "snippet": "B Team - Aaron Hickey - Pontus Jansson - Rico Henry - Ben Mee"
+          },
+          {
+            "title": "Match Preview: Arsenal",
+            "link": "https://www.brentfordfc.com/en/news/article/match-preview-arsenal-v-brentford-premier-league",
+            "snippet": "Analysis, team news, match officials and more. Here's ..."
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Brentford Football Club is a professional football club in Brentford, West London, England, which competes in the Premier League, the highest tier of English football, having gained promotion via the playoffs at the end of the 2020–21 Championship season.",
+          "source_info_link": "https://www.brentfordfc.com/",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/89f76b3c32a6c20689c2d0be9e2a47d56cac39aa3411ad14d7ffa53876548f5769780a0205baa56c4962b18f2fe7b94a.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.brentfordfc.com/&tbm=ilp&ilps=AB_Lh3r3t0AT_t_AYfy-O3Zfwj9m0Mrz2Q",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3r3t0AT_t_AYfy-O3Zfwj9m0Mrz2Q&q=About+https%3A%2F%2Fwww.brentfordfc.com%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JDF7VHRPi48J:https://www.brentfordfc.com/&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Brentford F.C. - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Brentford_F.C.",
+      "displayed_link": "https://en.wikipedia.org › wiki › Brentford_F.C.",
+      "snippet": "Nicknamed \"The Bees”, the club was founded in 1889 and played home matches at Griffin Park from 1904 before moving to Gtech Community Stadium in 2020. Their ...",
+      "snippet_highlighted_words": [
+        "Bees"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "List of Brentford F.C. seasons",
+            "link": "https://en.wikipedia.org/wiki/List_of_Brentford_F.C._seasons"
+          },
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/History_of_Brentford_F.C."
+          },
+          {
+            "title": "Brentford Community Stadium",
+            "link": "https://en.wikipedia.org/wiki/Brentford_Community_Stadium"
+          },
+          {
+            "title": "Ivan Toney",
+            "link": "https://en.wikipedia.org/wiki/Ivan_Toney"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Nickname(s): The Bees",
+            "Founded: 16 October 1889; 133 years ago",
+            "Chairman: Cliff Crown",
+            "2021–22: Premier League, 13th of 20‎",
+            "Head coach: Neil MacFarlane",
+            "Nickname(s): The Bees",
+            "Ground: Brentford Community Stadium, Brentf...‎",
+            "Founded: 2016"
+          ],
+          "detected_extensions": {
+            "founded_october_years_ago": 16,
+            "premier_league_th_of": 2021,
+            "founded": 2016
+          }
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers, known as Wikipedians, through open collaboration and using a wiki-based editing system. Wikipedia is the largest and most-read reference work in history.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Brentford_F.C.",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/89f76b3c32a6c20689c2d0be9e2a47d5867441998d92d181749f725bc81b6926605a5dc4046036a0c6332b85b4f847ba.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Brentford_F.C.&tbm=ilp&ilps=AB_Lh3rvcKFn1e5cBtj6Zw_J-oe3thdYfA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rvcKFn1e5cBtj6Zw_J-oe3thdYfA&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBrentford_F.C.",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YK95FawOJVUJ:https://en.wikipedia.org/wiki/Brentford_F.C.&cd=20&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?gl=us&q=related:https://en.wikipedia.org/wiki/Brentford_F.C.+brentford+bees",
+      "related_results": [
+        {
+          "position": 1,
+          "title": "Brentford F.C. Reserves and Academy - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Brentford_F.C._Reserves_and_Academy",
+          "displayed_link": "https://en.wikipedia.org › wiki › Brentford_F.C._Reserv...",
+          "snippet": "Brentford's reserve team was relaunched as the Brentford Development Squad in 2011 and in 2012 it began competing in Professional Development League 2 South.",
+          "snippet_highlighted_words": [
+            "Brentford's",
+            "Brentford"
+          ],
+          "rich_snippet": {
+            "bottom": {
+              "extensions": [
+                "Head coach: Neil MacFarlane",
+                "Nickname(s): The Bees",
+                "Ground: Brentford Community Stadium, Brentf...‎",
+                "Founded: 2016"
+              ],
+              "detected_extensions": {
+                "founded": 2016
+              }
+            }
+          },
+          "about_this_result": {
+            "source": {
+              "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers, known as Wikipedians, through open collaboration and using a wiki-based editing system. Wikipedia is the largest and most-read reference work in history.",
+              "source_info_link": "https://en.wikipedia.org/wiki/Brentford_F.C._Reserves_and_Academy",
+              "security": "secure",
+              "icon": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/89f76b3c32a6c20689c2d0be9e2a47d57cbedacc5f669a7e3512ca2ddbceaf8fa47babfe216cde0302bb4c8afde3f6e222457e8ece926e2fec3122c8dbb6894b3f2d067a4043b09a.png"
+            }
+          },
+          "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Brentford_F.C._Reserves_and_Academy&tbm=ilp&ilps=AB_Lh3qG_viq4T_LVnDZ0A5X07-QOFDByA",
+          "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3qG_viq4T_LVnDZ0A5X07-QOFDByA&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBrentford_F.C._Reserves_and_Academy",
+          "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KjfufSX3eGYJ:https://en.wikipedia.org/wiki/Brentford_F.C._Reserves_and_Academy&cd=21&hl=en&ct=clnk&gl=us",
+          "related_pages_link": "https://www.google.com/search?gl=us&q=related:https://en.wikipedia.org/wiki/Brentford_F.C._Reserves_and_Academy+brentford+bees"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Brentford FC Team News, Fixtures & Results 2022/2023",
+      "link": "https://www.premierleague.com/clubs/130/Brentford/overview",
+      "displayed_link": "https://www.premierleague.com › Brentford › overview",
+      "snippet": "For the latest news on Brentford FC, including scores, fixtures, team news, results, form guide & league position, visit the official website of the Premier ...",
+      "snippet_highlighted_words": [
+        "Brentford FC"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Premier League is the highest level of the men's English football league system. Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League. Seasons typically run from August to May with each team playing 38 matches.",
+          "source_info_link": "https://www.premierleague.com/clubs/130/Brentford/overview",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/63e5b18fef7dda13df16dc15/images/89f76b3c32a6c20689c2d0be9e2a47d5ed36c66f0181e405c629a9a3ee7361e632ed07976f38e876264772b34dbc6f42.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.premierleague.com/clubs/130/Brentford/overview&tbm=ilp&ilps=AB_Lh3pbhO0KYECjoHZpbl3dm246aV9D6w",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pbhO0KYECjoHZpbl3dm246aV9D6w&q=About+https%3A%2F%2Fwww.premierleague.com%2Fclubs%2F130%2FBrentford%2Foverview",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1UwK-t6Fj8gJ:https://www.premierleague.com/clubs/130/Brentford/overview&cd=42&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "brentford community stadium",
+      "link": "https://www.google.com/search?gl=us&q=Brentford+Community+Stadium&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ1QJ6BAhQEAE"
+    },
+    {
+      "query": "brentford fc players",
+      "link": "https://www.google.com/search?gl=us&q=Brentford+fc+players&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ1QJ6BAhPEAE"
+    },
+    {
+      "query": "brentford tickets",
+      "link": "https://www.google.com/search?gl=us&q=Brentford+tickets&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ1QJ6BAhOEAE"
+    },
+    {
+      "query": "brentford results",
+      "link": "https://www.google.com/search?gl=us&q=Brentford+results&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ1QJ6BAhNEAE"
+    },
+    {
+      "query": "brentford fixtures",
+      "link": "https://www.google.com/search?gl=us&q=Brentford+Fixtures&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ1QJ6BAhLEAE"
+    },
+    {
+      "query": "brentford, london",
+      "link": "https://www.google.com/search?gl=us&q=Brentford+London&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ1QJ6BAhKEAE"
+    },
+    {
+      "query": "brentford shop",
+      "link": "https://www.google.com/search?gl=us&q=Brentford+shop&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ1QJ6BAhJEAE"
+    },
+    {
+      "query": "brentford transfermarkt",
+      "link": "https://www.google.com/search?gl=us&q=Brentford+transfermarkt&sa=X&ved=2ahUKEwjR65jF-Yn9AhUrD1kFHcaMBZkQ1QJ6BAhGEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=brentford+bees&oq=brentford+bees&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=brentford+bees&oq=brentford+bees&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=brentford+bees&oq=brentford+bees&gl=us&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=brentford+bees&oq=brentford+bees&gl=us&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=brentford+bees&oq=brentford+bees&gl=us&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brentford+bees&start=40"
+    }
+  }
+}
