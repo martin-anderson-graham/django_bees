@@ -1,6 +1,7 @@
 import React from 'react';
 import bee_logo from './assets/images/brentford-fc-logo-512x512.png'
 import './App.css';
+import ScoreTable from './ScoreTable'
 
 import { createRoot } from "react-dom/client";
 
@@ -10,17 +11,11 @@ function App() {
       <header className="App-header">
         <img src={bee_logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Come on you bees!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
       </header>
+      <ScoreTable/>
     </div>
   );
 }
